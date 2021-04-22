@@ -33,8 +33,8 @@ export default function Hero() {
         {SITE_DESCRIPTION}
       </h2>
       <h1 className={cn(styleUtils.appear, styleUtils['appear-third'], styles.hero)}>
-        Unimos a tecnologia
-        <br className={styleUtils['show-on-desktop']} /> e o design.
+       Unindo a tecnologia e o design 
+        <br className={styleUtils['show-on-desktop']} /> para ajudar as marcas a crescer em uma era de transformação digital..
       </h1>
       <h2
         className={cn(
